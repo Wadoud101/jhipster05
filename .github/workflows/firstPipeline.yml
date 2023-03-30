@@ -3,7 +3,7 @@ name: Ilk pipeline
 #trigger (tetikleyici)
 on:
   push: 
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 
 jobs:
